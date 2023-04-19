@@ -2,7 +2,7 @@ title:              Neural Nexus
 email:              mdirfan5702@gmail.com
 description:        Data Science, AI tips and tricks
 author:             Neural Nexus
-baseurl:            "Neural-Nexus/"
+baseurl:            ""
 url:                "https://dev-mdirfan.github.io"
 # https://dev-mdirfan.github.io/Neural-Nexus/
 # https://neuralnexus.github.io
@@ -25,3 +25,5 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+
+highlighter: rouge
