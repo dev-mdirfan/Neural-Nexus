@@ -3,7 +3,9 @@ email:              mdirfan5702@gmail.com
 description:        Data Science, AI tips and tricks
 author:             Neural Nexus
 baseurl:            "Neural-Nexus/"
-url:                "https://neuralnexus.github.io"
+url:                "https://dev-mdirfan.github.io"
+# https://dev-mdirfan.github.io/Neural-Nexus/
+# https://neuralnexus.github.io
 
 # Social Profiles
 twitter_username:   
